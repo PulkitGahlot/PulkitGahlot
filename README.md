@@ -30,7 +30,7 @@ I’m a passionate Cybersecurity Explorer and Red Team Apprentice, delving into 
 ---
 
 ## Certificates
-<img width="400" alt="Pulkit Gahlot Android Developer Internship Certificate" src="https://github.com/user-attachments/assets/82f39486-ad79-4ccf-99cb-8f1b3da222cf" /> <img width="400" alt="Pulkit Gahlot HRA Internship Certificate" src="https://github.com/user-attachments/assets/7fe67f09-7f34-4dd1-a034-7d50dbda5cfa" /> <img width="400" alt="TechStars_Startup_Weekend_Certificate" src="https://github.com/user-attachments/assets/aaf85cc8-49ac-469d-9de2-404170f05cea" /> <img width-"400" alt="Viksit Bharat" src="https://github.com/user-attachments/assets/dcbfbe3e-1eae-47f7-9379-36ba7307f0e3" /> <img width="400" alt="CCNA 1" src="https://github.com/user-attachments/assets/8f519725-e241-46a5-a1cb-71fdf6d60618" /> 
+<img width="400" alt="Pulkit Gahlot Android Developer Internship Certificate" src="https://github.com/user-attachments/assets/82f39486-ad79-4ccf-99cb-8f1b3da222cf" /> <img width="400" alt="Pulkit Gahlot HRA Internship Certificate" src="https://github.com/user-attachments/assets/7fe67f09-7f34-4dd1-a034-7d50dbda5cfa" /> <img width="400" alt="TechStars_Startup_Weekend_Certificate" src="https://github.com/user-attachments/assets/aaf85cc8-49ac-469d-9de2-404170f05cea" /> <img width="400" alt="Viksit Bharat" src="https://github.com/user-attachments/assets/dcbfbe3e-1eae-47f7-9379-36ba7307f0e3" /> <img width="400" alt="CCNA 1" src="https://github.com/user-attachments/assets/8f519725-e241-46a5-a1cb-71fdf6d60618" /> 
 
 ---
 
