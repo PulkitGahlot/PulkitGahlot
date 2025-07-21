@@ -1,5 +1,5 @@
 # Hi there, I'm Pulkit Gahlot! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&color00FA9A&width=435&lines=Ethical+Hacker;OWASP;VAPT;Flutter;Artificial+Intelligence)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=350&color=39FF14&width=435&lines=Ethical+Hacker;OWASP;VAPT;Flutter;Artificial+Intelligence)
 
 ---
 
