@@ -19,7 +19,7 @@ AI/ML Engineer and Backend Developer focused on building scalable, production-or
 ## 📽️ Featured Projects
 - [DocFusion-AI Review/Research Paper Summarizer](https://github.com/PulkitGahlot/DocFusion-AI_Review_Paper_Summarizer)
 - [Multi_Person_Face_Recognition](https://github.com/PulkitGahlot/Multi_Person_Face_Recognition)
-- [Personal Chatbot Using LLM + Audio]((https://github.com/PulkitGahlot/Personal-LLM-Chatbot)
+- [Personal Chatbot Using LLM + Audio](https://github.com/PulkitGahlot/Personal-LLM-Chatbot)
 - [Cryptographer Android App](https://github.com/PulkitGahlot/CODECRAFT_CS_03)
 
 ## 📊 GitHub Stats:
