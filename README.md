@@ -1,12 +1,13 @@
 # Hi there, I'm Pulkit Gahlot! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=350&color=39FF14&width=435&lines=Ethical+Hacker;OWASP+Top+10;VAPT;Flutter;Artificial+Intelligence)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=350&color=39FF14&width=435&lines=Machine+Learning;AI+Systems;Scalable+Systems;GenAI;Flutter;Artificial+Intelligence)
 
 ---
 
 ## 💫 About Me
-I’m a passionate Cybersecurity Explorer and Red Team Apprentice, delving into ethical hacking, adversarial simulations, and penetration testing with a hacker’s mindset. My journey spans Android app development and HR assistance at Drifko, where I contributed to mobile solutions and optimized hiring workflows. I’m currently training at an NVIDIA-powered AI lab, focusing on automation, Python scripting, and GPU-accelerated projects. My tech arsenal includes Python, MySQL, C, Flutter, and video editing. With a foundation in low-level programming and a flair for secure coding, I aim to become an ethical hacker. I’ve also served with Light de Literacy, promoting educational outreach.
+AI/ML Engineer and Backend Developer focused on building scalable, production-oriented intelligent systems using Generative AI, semantic search, and modern backend architectures. Experienced in developing RAG pipelines, LLM-powered applications, real-time AI systems, and performance-optimized machine learning workflows using Python, PyTorch, FastAPI, and vector databases. My work spans AI engineering, backend systems, and applied automation, with hands-on experience building multi-document summarization platforms, semantic search chatbots, and computer vision pipelines optimized for low-latency inference. I enjoy solving complex engineering challenges around scalability, retrieval quality, and intelligent automation while actively exploring cybersecurity and adversarial thinking to better understand system reliability and security from both a builder’s and attacker’s perspective. Skilled in Python, FastAPI, PyTorch, LLMs, RAG, LangChain, Docker, SQL, OpenCV, AWS, and GCP, I’m driven by continuous learning and building systems that are scalable, efficient, and impactful.
 
-[**📄 Download My Resume**](https://github.com/user-attachments/files/21345627/Pulkit_Gahlot_Resume.pdf)
+[**📄 Download My Resume**](https://github.com/user-attachments/files/27696024/Pulkit_Gahlot_Resume.pdf)
+
 
 ---
 
@@ -16,9 +17,9 @@ I’m a passionate Cybersecurity Explorer and Red Team Apprentice, delving into 
 ---
 
 ## 📽️ Featured Projects
-- [Ethical Hacking Projects](https://github.com/PulkitGahlot/Ethical-Hacking-Projects)
-- [Computer Networks Project](https://github.com/PulkitGahlot/Computer-Network-Project)
-- [Flutter Expense Tracker](https://github.com/PulkitGahlot/Flutter-Projects/tree/Expense_Tracker)
+- [DocFusion-AI Review/Research Paper Summarizer](https://github.com/PulkitGahlot/DocFusion-AI_Review_Paper_Summarizer)
+- [Multi_Person_Face_Recognition](https://github.com/PulkitGahlot/Multi_Person_Face_Recognition)
+- [Personal Chatbot Using LLM + Audio]((https://github.com/PulkitGahlot/Personal-LLM-Chatbot)
 - [Cryptographer Android App](https://github.com/PulkitGahlot/CODECRAFT_CS_03)
 
 ## 📊 GitHub Stats:
